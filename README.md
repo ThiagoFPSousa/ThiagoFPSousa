@@ -3,8 +3,8 @@
 # 📚Sobre Mim
 Sou um estudante que estou atualmente cursando o 4º Semestre de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia - UESB.
 
-![Thiago Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoFernandesPereiraDeSousa&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFernandesPereiraDeSousa&layout=compact&theme=highcontrast)](https://github.com/ThiagoFernandesPereiraDeSousa/github-readme-stats)
+![Thiago Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoFPSousa&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPSousa&layout=compact&theme=highcontrast)](https://github.com/ThiagoFPSousa/github-readme-stats)
 
 # 👨‍💻Tecnologias utilizadas
 <div style="display: inline_black"><br/>
